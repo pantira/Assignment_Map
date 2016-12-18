@@ -10,14 +10,14 @@
     tools:context="com.egco428.a23273.MainActivity">
 
     <de.hdodenhof.circleimageview.CircleImageView
-        android:layout_width="104dp"
-        android:layout_height="104dp"
-        android:layout_marginRight="10dp"
-        android:layout_marginEnd="10dp"
-        android:layout_centerHorizontal="true"
-        android:src="@drawable/egco"
-        android:id="@+id/circleView"
-        />
+    android:layout_width="104dp"
+    android:layout_height="104dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_centerHorizontal="true"
+    android:src="@drawable/egco"
+    android:id="@+id/circleView"
+    />
 
     <TextView
         android:layout_width="match_parent"
